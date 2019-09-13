@@ -1,0 +1,6 @@
+.stack-work/
+mhoffmann.cabal
+*~
+
+_cache/
+_site/
